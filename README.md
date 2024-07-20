@@ -1,5 +1,15 @@
 # 💫 About Me:
-Hi! there I'm Shivendra ,engineering student at NSIT,DELHI<br>A passionate and aspiring software engineer, <br>A tech-savvy individual, a machine learning aficionado, <br>and a code fanatic.<br><br>AI & ML | DATA SCIENCE | C/C++
+
+Hi! I'm Shivendra, an engineering student at NSIT, Delhi. As a passionate and aspiring software engineer, I'm interested in:
+
+- **Coding Problems**
+- **AI & ML**
+- **Manufacturing Chips**
+- **Latency Reduction**
+- **Tech Innovations**
+
+With a strong foundation in C/C++, I am committed to continuous learning and growth in the field of technology.
+
 
 
 ## 🌐 Socials:
