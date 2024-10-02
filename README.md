@@ -2,9 +2,8 @@
 
 Hi! I'm Shivendra, an engineering student at NSIT, Delhi. As a passionate and aspiring software engineer, I'm interested in:
 
-- **Coding Problems**
+- **backend **
 - **AI & ML**
-- **Manufacturing Chips**
 - **Latency Reduction**
 - **Tech Innovations**
 
