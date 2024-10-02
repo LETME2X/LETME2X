@@ -2,7 +2,7 @@
 
 Hi! I'm Shivendra, an engineering student at NSIT, Delhi. As a passionate and aspiring software engineer, I'm interested in:
 
-- **backend **
+- **Backend architecture**
 - **AI & ML**
 - **Latency Reduction**
 - **Tech Innovations**
